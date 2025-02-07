@@ -38,7 +38,7 @@ Je souhaite intégrer une entreprise en alternance pour la rentrée 2025 dans le
 ## Compétences🛠️
 🖥️ Administration Système : Gestion de serveurs sous Linux (Debian, Ubuntu, ) et Windows Server
 
-🌐 Réseaux & Virtualisation : Configuration et administration de routeurs, VLAN, VPN, VMware, Hyper-V, Proxmox
+🌐 Réseaux & Virtualisation : Configuration et administration de routeurs, VLAN, VMware, Proxmox
 
 ☁️ Cloud : Notions AWS, Azure
 
@@ -57,9 +57,9 @@ Je souhaite intégrer une entreprise en alternance pour la rentrée 2025 dans le
 📜 Scripting de gestion de logs : Script Bash pour centraliser et surveiller les logs
 
 ## Langues🌎
-  🇫🇷 Français : Courant
+  Français : Courant
 
-  🇬🇧 Anglais : Technique (Lecture et rédaction de documentation technique)
+  Anglais : Technique (Lecture et rédaction de documentation technique)
 
 ## Centres d'Intérêt🎨
 ☁️ Cloud Computing : Exploration des bases de AWS et Azure
