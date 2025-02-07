@@ -10,19 +10,29 @@ Je souhaite intégrer une entreprise en alternance pour la rentrée 2025 dans le
 ## Formation📚 
 
 🎓 BTS SIO - Option SISR (En cours, obtention en mai 2025)● IF2I - Vincennes
+
 📜 Baccalauréat en Économie - Mention Assez Bien (Obtenu en juillet 2023)● Collège au Bénin
 
  ## Expériences Professionnelles💼 
  ## Technicienne Systèmes et Réseaux (Alternance)KY Solution - Depuis [16 Septembre 2024]
+ 
 🛠️ Administration et maintenance des infrastructures réseaux et systèmes.
+
 🏗️ Gestion et déploiement de serveurs et postes clients.
+
 🔒 Supervision de la sécurité des systèmes et réseaux.
+
 📞 Support technique et assistance aux utilisateurs.
+
 ## Technicienne Informatique (Stage 3 mois - Mai à Juillet 2024)Les Réparateurs Mac et PC
 🔍 Diagnostic et réparation de matériel informatique (Mac et PC).
+
 💾 Installation et configuration de systèmes d'exploitation (Windows, macOS, Linux).
+
 📀 Gestion des sauvegardes et récupération de données.
+
 🤝 Assistance et conseil aux clients sur l'entretien et la sécurité de leurs appareils.
+
 ✅ Tests et validation du bon fonctionnement des machines réparées.
 
 ## Compétences🛠️
