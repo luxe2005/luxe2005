@@ -57,7 +57,7 @@ Je souhaite intégrer une entreprise en alternance pour la rentrée 2025 dans le
 📜 Scripting de gestion de logs : Script Bash pour centraliser et surveiller les logs
 
 ## Langues🌎
-  Français : Courant  Anglais : Technique (Lecture et rédaction de documentation technique)
+  Français : Courant  /  Anglais : Technique (Lecture et rédaction de documentation technique)
 
 ## Centres d'Intérêt🎨
 ☁️ Cloud Computing : Exploration des bases de AWS et Azure
