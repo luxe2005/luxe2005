@@ -1,4 +1,4 @@
-
+## Bienvenue sur mon GitHub !
 
 🙋‍♀️ À propos de moi
 
@@ -41,6 +41,7 @@ Je souhaite intégrer une entreprise en alternance pour la rentrée 2025 dans le
 
 ## Langues🌎
 🇫🇷 Français : Courant
+
 🇬🇧 Anglais : Technique (Lecture et rédaction de documentation technique)
 
 ## Centres d'Intérêt🎨
